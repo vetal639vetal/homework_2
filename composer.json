@@ -1,0 +1,15 @@
+{
+    "name": "vetal_639/php7loc",
+    "description": "Test",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "vetal_639\\php7loc\\": "",
+
+        }
+    }
+}
